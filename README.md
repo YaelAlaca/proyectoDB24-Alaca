@@ -1,4 +1,4 @@
-# Proyecto DB24 - Apellidos
+# Proyecto DB24 - Alaca
 
 ## Descripcion 
 - Dessarrollo un sitema que se encarga de la gestion de un almacen. Para poder automatizar el manejo de carga de productos, y agilizar las ventas.
